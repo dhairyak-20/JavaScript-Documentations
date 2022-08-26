@@ -1,4 +1,4 @@
-# 30DaysOfCode
+# 30 Days Of Code
 I am taking up the 30 Days of Code Challenge hosted by Scaler.
 ---
 ## Day 1
@@ -15,7 +15,7 @@ I am taking up the 30 Days of Code Challenge hosted by Scaler.
 * [Control statements.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ControlStatements.md) (if, else, else if) [Example Code](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ControlStatements.html)
 
 ## Day 3
-* [Control Statements.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.md) (Switch Case) [Code File.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.html)
-* [For Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.md) | [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.html)
-* [While Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.md) | [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.html)
-* [Do While Loop](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.md) | [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.html)
+* [Control Statements.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.md) (Switch Case) [(Sample Code File.)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.html)
+* [For Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.html)
+* [While Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.html)
+* [Do While Loop](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.html)
