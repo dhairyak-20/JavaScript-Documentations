@@ -1,4 +1,4 @@
-# Do While Loops
+# While Loops
 
 A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement. Once the expression becomes false, the loop terminates.
 
@@ -16,7 +16,7 @@ while (boolean condition)
 * When the condition becomes false, the loop terminates which marks the end of its life cycle.
 
 ### Example:
-```html
+```javascript
 <script type = "text/javaScript">
 // JavaScript program to illustrate while loop 
   
