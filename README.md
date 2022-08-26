@@ -16,4 +16,5 @@ I am taking up the 30 Days of Code Challenge hosted by Scaler.
 
 ## Day 3
 * [Control Statements.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.md) (Switch Case) [Code File.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.html)
-* [For Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.html)
+* [For Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.md) | [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.html)
+* [While Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.md) | [(Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.html)
