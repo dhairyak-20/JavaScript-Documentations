@@ -17,5 +17,14 @@ I am taking up the 30 Days of Code Challenge hosted by Scaler.
 ## Day 3
 * [Control Statements.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.md) (Switch Case) [(Sample Code File.)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/SwitchCase.html)
 * [For Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/ForLoops.html)
+
+## Day 4
 * [While Loops.](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/WhileLoop.html)
 * [Do While Loop](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/DoWhileLoop.html)
+
+## Day 5
+* [Functions](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/Functions.md) | [(Sample Code File)](https://github.com/dhairyak-20/30DaysOfCode/blob/main/Code%20Files/functions.html)
+
+## Day 6
+* Scope of Variables.
+* [Arrays.]() | 
