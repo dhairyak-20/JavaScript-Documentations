@@ -1,5 +1,5 @@
 # 30 Days Of Code
-I am taking up the 30 Days of Code Challenge hosted by Scaler.
+I am taking up the 30 Days of Code Challenge.
 ---
 ## Day 1
 * Intro to JS.
