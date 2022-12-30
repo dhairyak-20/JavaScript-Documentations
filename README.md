@@ -1,5 +1,4 @@
-# 30 Days Of Code
-I am taking up the 30 Days of Code Challenge.
+# JavaScript Documentation
 ---
 ## Day 1
 * Intro to JS.
