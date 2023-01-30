@@ -3,7 +3,7 @@
 ## Day 1
 * Intro to JS.
 * Understood what DOM is.
-* The mandatory [Hello World](https://github.com/dhairyak-20/JavaScript-Documentations/blob/main/Code%20Files/HelloWorld.html) code. :wink:
+* The mandatory [Hello World](https://github.com/dhairyak-20/JavaScript-Documentations/blob/main/Code%20Files/HTML%20Codes/HelloWorld.html) code. :wink:
 * [Statements & Comments.](https://github.com/dhairyak-20/JavaScript-Documentations/blob/main/Code%20Files/Statements%26Comments.html)
 * [Variables.](https://github.com/dhairyak-20/JavaScript-Documentations/blob/main/Code%20Files/variables.md)
 * [Data Types.](https://github.com/dhairyak-20/JavaScript-Documentations/blob/main/Code%20Files/DataTypes.md)
